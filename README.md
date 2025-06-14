@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/mivaki-not/api1.2/actions/workflows/gradle.yml/badge.svg)](https://github.com/mivaki-not/api1.2/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/4h21cdof5glxf39c?svg=true)](https://ci.appveyor.com/project/mivaki-not/api1-2)
